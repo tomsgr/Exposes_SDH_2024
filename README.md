@@ -2,4 +2,4 @@
 Exposés des étudiants de M1 Sciences des données et histoire (2024-2025)
 
 #RGPD 
-url= [https://github.com/ak-source-17/Exposes_SDH_2024/edit/main/README.md]
+url= [https://github.com/ak-source-17/Exposes_SDH_2024/edit/main/RGPD]
