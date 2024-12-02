@@ -2,4 +2,4 @@
 *Définitions des enjeux du sujet*
 
 
-![alt text](téléchargement.jpg)
+![alt text](image.jpg)
