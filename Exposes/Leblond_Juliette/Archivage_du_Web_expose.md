@@ -9,7 +9,7 @@
 *Crédits : Morgan Tual, Le Monde*
 
 
-![404](Exposes/Leblond_Juliette/404.gif)
+![alt text](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzhrOGYxeGVkdXNob3doYmtuenE3M2V6cG5nc3JidWk4Z2ZzcTZtZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xTiN0L7EW5trfOvEk0/giphy.webp)
 
 
 
