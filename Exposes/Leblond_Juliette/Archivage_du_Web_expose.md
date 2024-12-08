@@ -9,6 +9,7 @@
 *Crédits : Morgan Tual, Le Monde*
 
 
-![404.gif](Exposes/Leblond_Juliette/404.gif)
+![404](Exposes/Leblond_Juliette/404.gif)
+
 
 
