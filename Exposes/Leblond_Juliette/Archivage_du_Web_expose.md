@@ -1,7 +1,7 @@
 L’Archivage du Web en France :**
 
 **Photographie du serveur d'Internet Archives de la BNF**
-![alt text](image.jpg)
+![alt text](stockage_web.jpg)
 *Crédits : Morgan Tual, Le Monde*
 
 # Enjeux et contexte de l’archivage du Web :
