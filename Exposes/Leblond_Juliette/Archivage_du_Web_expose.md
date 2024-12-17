@@ -1,7 +1,7 @@
 # L’Archivage du Web en France :
 
 **Photographie du serveur d'Internet Archives de la BNF**
-<div style ="width : 60%, height : 60%">![alt text](stockage_web.jpg)</div>
+![alt text](stockage_web.jpg)</div>
 
 *Crédits : Morgan Tual, Le Monde*
 
@@ -89,8 +89,7 @@ exemple, à la suite de la surpression du monopole étatique sur les
 contenus dans les années 1980, il est nécessaire, dans une visée
 patrimoniale et mémorielle de préserver les programmes nouveaux
 d’acteurs inédits sur le champ audiovisuel national. C’est ainsi que les
-législateurs s’emparent de la question en 1992
-([https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000723108#:text=1er.,la%20disposition%20d'un%20public](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000723108#:~:text=1er.,la%20disposition%20d'un%20public)).
+législateurs s’emparent de la question en [1992].(https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000723108#:~:text=1er.,la%20disposition%20d'un%20public)).
 
 ## Une vision économique du Web : les prémices de l’archivage du Web
   
@@ -138,8 +137,7 @@ plus large du droit d’auteur qui est abordée.
 C’est à l’échelle européenne que les choses s’accélèrent. Une directive
 du Parlement européen et du Conseil du 22 mai 2001[^11] relative à
 l’harmonisation de certains aspects du droit d’auteurs et des droits des
-voisins dans la société de l’information
-(<https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000523361>). En vue
+voisins dans la société de [l’informatio]n (<https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000523361>). En vue
 de son adaptation dans le droit national français, un Conseil supérieur
 de la propriété littéraire et artistique est créé. Un premier paradoxe
 apparait : pourquoi, alors que le dépôt légal est historiquement lié aux
