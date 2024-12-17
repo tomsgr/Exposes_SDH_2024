@@ -1,14 +1,14 @@
 # L’Archivage du Web en France :
 
 **Photographie du serveur d'Internet Archives de la BNF**
-![alt text](stockage_web.jpg)
+<div style ="width : 60%, height : 60%">![alt text](stockage_web.jpg)</div>
+
 *Crédits : Morgan Tual, Le Monde*
 
 # Enjeux et contexte de l’archivage du Web :
 
-Initié par le chercheur Tim Berners-Lee en 1989, le Web s’est imposé
-comme un outil quotidien support de données variées auxquels ont accès
-et/ou produisent des milliards d’utilisateurs à travers le monde. Le Web
+Initié par le chercheur Tim Berners-Lee en 1989, le Web s’est imposé comme un outil quotidien 
+support de données variées auxquels ont accès et/ou produisent des milliards d’utilisateurs à travers le monde. Le Web
 n’a pas cessé d’évoluer ces vingt dernières années, son architecture a
 été transformée et son emploi démocratisé[^1]. D’abord envisagé pour des
 chercheurs, c’est un public large qui s’est investi de ce service en
