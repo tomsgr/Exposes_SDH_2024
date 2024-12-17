@@ -1,7 +1,7 @@
 # L’Archivage du Web en France :
 
 **Photographie du serveur d'Internet Archives de la BNF**
-![alt text](stockage_web.jpg)</div>
+![alt text](stockage_web.jpg)
 
 *Crédits : Morgan Tual, Le Monde*
 
@@ -89,7 +89,7 @@ exemple, à la suite de la surpression du monopole étatique sur les
 contenus dans les années 1980, il est nécessaire, dans une visée
 patrimoniale et mémorielle de préserver les programmes nouveaux
 d’acteurs inédits sur le champ audiovisuel national. C’est ainsi que les
-législateurs s’emparent de la question en [1992].(https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000723108#:~:text=1er.,la%20disposition%20d'un%20public)).
+législateurs s’emparent de la question en [1992](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000723108#:~:text=1er.,la%20disposition%20d'un%20public).
 
 ## Une vision économique du Web : les prémices de l’archivage du Web
   
@@ -134,10 +134,10 @@ plus large du droit d’auteur qui est abordée.
 ## L’établissement difficile de la loi Dadvsi témoin de visions différentes autour du Web. 
   
 
-C’est à l’échelle européenne que les choses s’accélèrent. Une directive
-du Parlement européen et du Conseil du 22 mai 2001[^11] relative à
+C’est à l’échelle européenne que les choses s’accélèrent. [Une directive
+du Parlement européen](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000523361) et du Conseil du 22 mai 2001[^11] relative à
 l’harmonisation de certains aspects du droit d’auteurs et des droits des
-voisins dans la société de [l’informatio]n (<https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000523361>). En vue
+voisins dans la société de l’information. En vue
 de son adaptation dans le droit national français, un Conseil supérieur
 de la propriété littéraire et artistique est créé. Un premier paradoxe
 apparait : pourquoi, alors que le dépôt légal est historiquement lié aux
@@ -442,11 +442,22 @@ produire un discours historique à partir de ces corpus ? Comment les
 historiens prennent-ils en considération les spécificités de ces
 collections ? Quelles sont les nouvelles contraintes et limites ?
 
+### Quelques travaux méthodologiques et historiques à partir du Web français  :
+
+- [Sophie Gebeil,"Les mémoires de l'immigration maghrébine sur le Web français (1996-2013)"," Migrations Sociétés", n°151(1), pp.165-180](https://shs.cairn.info/revue-migrations-societe-2014-1-page-165?lang=fr) 
+- [Sophie Gebeil, "Web vivant et web archivé, aux sources de l’histoire nativement numérique",*Le web :
+source et archive*, Soutenu par le GIS CollEx-Persée et porté par le Service Commun de Documentation
+de l’Université de Lille et la Bibliothèque nationale de France, en partenariat avec le GERiiCO de
+l’Université de Lille, Sciences Po et le Campus Condorcet, le réseau ResPaDon se donne pour objectif
+d’ouvrir un espace de dialogue entre chercheurs et professionnels des bibliothèques et des archives.,
+Apr 2023, Lille, France.](https://amu.hal.science/hal-04058328/document)
+- [Quentin Lobbé, "Continuity and discontinuity in web archives: a multi-level reconstruction of the firsttuesday community through persistences, continuity spaces and web cernes", *Internet Histories*, 2023.](https://www.tandfonline.com/doi/full/10.1080/24701475.2023.2254050)
+
 Notons d’abord que comme nous l’avons souligné, les archives du Web sont
-lacunaires et incomplètes à la fois du fait des enjeux de
-représentativité des collectes de la BNF et de l’INA. Il peut manquer
+lacunaires et incomplètes notamment du fait des enjeux autour de la
+représentativité du Web qui définissent les collectes biannuelles de la BNF et de l’INA. Il peut manquer
 des pages entières notamment quand il s’agit des premières
-expérimentations d’Internet Archive récupérées par la BNF. De plus,
+expérimentations d’Internet Archive récupérées par la BNF au début des années 2000. De plus,
 malgré la mise en place d’une navigation entre « web mort » et « web
 vivant » permis par les archivistes de la BNF, l’interconnectivité entre
 les sites est limitée du fait de temporalité différentes de moissonnage.
@@ -497,13 +508,6 @@ les processus d’évolution de la médiatisation qui peuvent traduire des
 demandes de reconfigurations mémorielles dans les politiques
 culturelles.
 
-Quelques travaux d’histoire sur :
-
-1.  **La fabrique numérique des mémoires de l’immigration maghrébine sur
-    le web français (1999-2014),Sophie Gebeil.**
-
-2.  **Web Vivant et Web archive, aux sources de l’histoire nativement
-    numériques. <https://amu.hal.science/hal-04058328v1/document>**
 
 [^1]: On peut penser au « Web 2.0 » (T. O’Reilly) dont des interfaces
     d’échanges simplifiés ont permis de rendre accessible à un public
