@@ -534,45 +534,45 @@ les processus d’évolution de la médiatisation qui peuvent traduire des
 demandes de reconfigurations mémorielles dans les politiques
 culturelles.
 
-# Bibliographie : 
-
-## Monographies 
-Musiani, Francesca, Camille Paloque-Berges, Valérie Schafer, et Benjamin G. Thierry. *Qu’est-ce qu’une archive du Web* Encyclopédie Numérique. Marseille: Open Edition Press, 2019.
-
-Revel, Jacques et Passeron, Jean-Claude. *Penser par cas*. Éditions de l’École des hautes études en sciences sociales, 2005.
-
-Sitts, Maxine K. *Handbook for Digital Projects: A Management Tool for Preservation and Access*. Andover, Massachusetts: Northeast Document Conservation Center, 2000.
-
-## Chapitre d’ouvrage : 
-Musiani, Francesca. « Archivage du Web, un enjeu de gouvernance d’Internet ». In Clarrise Bardidot, Esther Dehoux, Emilien Ruiz (dir). *La fabrique numérique des corpus en sciences humaines et sociales*, Presses Universitaires du Septentrion., 2022.
-
-
-## Mémoires et Thèses 
-Chaimbault, Thomas. *L’archivage du Web* . École nationale supérieure des sciences de l’information et des bibliothèques, 2008. https://www.enssib.fr/bibliotheque-numerique/documents/1730-l-archivage-du-web.pdf.
-
-Zielinski, Océane. * L’archivage du web français par la Bibliothèque nationale de France : une nouvelle approche des missions de la BNF?* Mémoire, Angers, 2019. https://dune.univ-angers.fr/fichiers/18009927/2019HMSIB11183/fichier/11183F.pdf.
-
-
-## Articles de revues 
-Foatelli, Alexandre. « L’archivage du web : un outil pour comprendre internet ». *La Revue des médias*, 2016. https://larevuedesmedias.ina.fr/larchivage-du-web-un-outil-pour-comprendre-internet#.
-
-Genevievepiejut. « Quand le web devient une archive : la construction du cadre légal ». *WebCorpora : explorer les archives d'Internet*, 15 juin 2017. https://doi.org/10.58079/VA8I.
-
-Illien, Gildas. « Le dépôt légal de l’internet en pratique : : les moissonneurs du web ». *Bulletin des bibliothèques de France (BBF)* 6 (2008): 20 27.
-
-Genin, Christine. « 20 ans d’archivage du web: Une nouvelle aventure pour les bibliothécaires ». *Biens Symboliques / Symbolic Goods* 2 (2018). https://doi.org/10.4000/bssg.271.
-
-Lupovici, Catherine. « L’archivage de l’Internet à la Bibliothèque nationale de France ». *Matériaux pour l’histoire de notre temps* 79, no 1 (2005): 82 84. https://doi.org/10.3406/mat.2005.1049.
-
-Mussou, Claude. « Et le Web devint archive : enjeux et défis »: *Le Temps des médias* n° 19, no 2 (16 novembre 2012): 259 66. https://doi.org/10.3917/tdm.019.0259.
-
-
-Articles de presse : 
-
-Croquet, Pierre. « Comment les archivistes de la BNF sauvegardent la mémoire du confinement sur Internet ». *Le Monde*, 15 mai 2020. https://www.lemonde.fr/pixels/article/2020/05/15/a-la-bnf-les-archivistes-du-web-sauvegardent-l-internet-francais-du-confinement_6039704_4408996.html.
-
-Morgane, Tual. « Vingt ans d’archivage du Web: les coulisses d’un projet titanesque ». *Le Monde*, 26 octobre 2016.
-
+># Bibliographie : 
+>
+>## Monographies 
+>Musiani, Francesca, Camille Paloque-Berges, Valérie Schafer, et Benjamin G. Thierry. *Qu’est-ce qu’une archive du Web* >Encyclopédie Numérique. Marseille: Open Edition Press, 2019.
+>
+>Revel, Jacques et Passeron, Jean-Claude. *Penser par cas*. Éditions de l’École des hautes études en sciences sociales, 2005.
+>
+>Sitts, Maxine K. *Handbook for Digital Projects: A Management Tool for Preservation and Access*. Andover, Massachusetts: Northeast Document Conservation Center, 2000.
+>
+>## Chapitre d’ouvrage : 
+>Musiani, Francesca. « Archivage du Web, un enjeu de gouvernance d’Internet ». In Clarrise Bardidot, Esther Dehoux, >Emilien Ruiz (dir). *La fabrique numérique des corpus en sciences humaines et sociales*, Presses Universitaires du Septentrion., 2022.
+>
+>
+>## Mémoires et Thèses 
+>Chaimbault, Thomas. *L’archivage du Web* . École nationale supérieure des sciences de l’information et des bibliothèques, 2008. https://www.enssib.fr/bibliotheque-numerique/documents/1730-l-archivage-du-web.pdf.
+>
+>Zielinski, Océane. * L’archivage du web français par la Bibliothèque nationale de France : une nouvelle approche des missions de la BNF?* Mémoire, Angers, 2019. https://dune.univ-angers.fr/fichiers/18009927/2019HMSIB11183/fichier/11183F.pdf.
+>
+>
+>## Articles de revues 
+>Foatelli, Alexandre. « L’archivage du web : un outil pour comprendre internet ». *La Revue des médias*, 2016. https://larevuedesmedias.ina.fr/larchivage-du-web-un-outil-pour-comprendre-internet#.
+>
+>Genevievepiejut. « Quand le web devient une archive : la construction du cadre légal ». *WebCorpora : explorer les archives d'Internet*, 15 juin 2017. https://doi.org/10.58079/VA8I.
+>
+>Illien, Gildas. « Le dépôt légal de l’internet en pratique : : les moissonneurs du web ». *Bulletin des bibliothèques de France (BBF)* 6 (2008): 20 27.
+>
+>Genin, Christine. « 20 ans d’archivage du web: Une nouvelle aventure pour les bibliothécaires ». *Biens Symboliques / Symbolic Goods* 2 (2018). https://doi.org/10.4000/bssg.271.
+>
+>Lupovici, Catherine. « L’archivage de l’Internet à la Bibliothèque nationale de France ». *Matériaux pour l’histoire de notre temps* 79, no 1 (2005): 82 84. https://doi.org/10.3406/mat.2005.1049.
+>
+>Mussou, Claude. « Et le Web devint archive : enjeux et défis »: *Le Temps des médias* n° 19, no 2 (16 novembre 2012): 259 66. https://doi.org/10.3917/tdm.019.0259.
+>
+>
+> ## Articles de presse : 
+>
+>Croquet, Pierre. « Comment les archivistes de la BNF sauvegardent la mémoire du confinement sur Internet ». *Le Monde*, 15 mai 2020. https://www.lemonde.fr/pixels/article/2020/05/15/a-la-bnf-les-archivistes-du-web-sauvegardent-l-internet-francais-du-confinement_6039704_4408996.html.
+>
+>Morgane, Tual. « Vingt ans d’archivage du Web: les coulisses d’un projet titanesque ». *Le Monde*, 26 octobre 2016.https://www.lemonde.fr/pixels/article/2016/10/26/vingt-ans-d-archivage-du-web-un-projet-titanesque_5020433_4408996.html 
+>
 
 [^1]: On peut penser au « Web 2.0 » (T. O’Reilly) dont des interfaces
     d’échanges simplifiés ont permis de rendre accessible à un public
