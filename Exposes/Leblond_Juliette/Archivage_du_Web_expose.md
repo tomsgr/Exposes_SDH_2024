@@ -38,7 +38,7 @@ fondation Internet Archive en 1996. C’est par l’utilisation de robots
 qui concernent l’élection présidentielles de 1996 opposant Bill Clinton
 à Bob Dole, avant de continuer en élargissant son œuvre. 
 
-<img src="768px-Internet_Archive_logo_and_wordmark.jpg" alt="alt text" width="400" height="400">
+<img src="768px-Internet_Archive_logo_and_wordmark.jpg" alt="alt text" width="400" height="400">       <img src="Khale.jpg" alt="alt text" width="400" height="400">    
 
 Il est possible de saisir les enjeux de construction de la mémoire nationale qui
 sous-tend ce premier projet dont l’entendu est important. En effet, une
