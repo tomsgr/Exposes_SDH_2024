@@ -386,6 +386,10 @@ donc ciblés par ces collectes des périodiques, de la musique, ou encore
 des encyclopédies. Elles répondent aux politiques documentaires de
 chacun des départements de la BNF et de l’INA. 
 
+L'ensemble de ces collectes font ensuite l'objet de constructions de dossiers thématiques, consultables sur les sites physiques de la BNF et de l'INA. Tout comme pour les collections physiques, ces archives numériques font l'objet d'une réflexion autour de leur valorisation. Il y a en effet une masse importante de données qui sont traitées et choisies en fonction des thèmes choisis. 
+
+Malgré une continuité dans le processus traditionnel de patrimonialisation, l'archivage du Web français a nécessité une formation des acteurs (archivistes, bibliothécaires et conservateurs) au enjeux du Web et aux outils de la collecte. Dès le début des années 2000, à l'initative de Julien Massanès - conservateur- et Jean-Noël Jeanneney- directeur de la BNF. 
+
 > #### Quelques chiffres relatifs à la collecte de la BNF de 2023: 
 > [Communication officielle de la Bibliothèque Nationale de France en février 2024.](https://www.bnf.fr/sites/default/files/2024-02/CP_bilan_archivage_du_web_2023.pdf) 
 >
@@ -413,7 +417,9 @@ Ce travail nécessite donc un ensemble d’acteurs importants à différentes
 échelles, régionales, nationales mais aussi internationale. Dès 2003, la
 BNF a fait partie des fondateurs du [consortium international pour la
 préservation de l’internet (IIPC)](https://netpreserve.org/) qui compte aujourd’hui plus de
-cinquante membres. On note d’abord une collaboration technique puisque
+cinquante membres. Ce consortium inité par Jean-Noël Jeanneney et Brewster Kahle est critiqué, mais rapidement la *British Library*, les bibliothèques des pays scandinaves et la bibliothèque du Congrès le rejoigne. Il y a une véritable prise de conscience d'une entreprise, soit nationale, mais collective dans les mêmes temporalités. S'unir permet donc d'échanger autour de problématiques similaires. 
+
+On note d’abord une collaboration technique puisque
 les logiciels de moissonnages et permettant la consultation sont le
 fruit d’une création commune. Ainsi, le format WARC (ISO 28500) qui
 caractérise le stockage et la préservation des archives est issu de ce
@@ -579,6 +585,9 @@ Croquet, Pierre. « Comment les archivistes de la BNF sauvegardent la mémoire d
 
 Morgane, Tual. « Vingt ans d’archivage du Web: les coulisses d’un projet titanesque ». *Le Monde*, 26 octobre 2016.https://www.lemonde.fr/pixels/article/2016/10/26/vingt-ans-d-archivage-du-web-un-projet-titanesque_5020433_4408996.html 
 
+### Sitographie : 
+Bibliothèque nationale de France, "Dépôt légal du Web". https://www.bnf.fr/fr/depot-legal-du-web 
+INA, "Les Web média", https://www.ina.fr/institut-national-audiovisuel/collections-audiovisuelles/le-web-media 
 
 [^1]: On peut penser au « Web 2.0 » (T. O’Reilly) dont des interfaces
     d’échanges simplifiés ont permis de rendre accessible à un public
