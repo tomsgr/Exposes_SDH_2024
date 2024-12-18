@@ -279,7 +279,11 @@ internationale depuis 2008. Il est véritablement nécessaire à
 l’interrogation des données. 
 
 > ### La patrimonialisation des archives à la BNF :
-> ![alt text](
+> ![alt text](spar.jpg)
+>
+> Comme on peut le voir, le SPAR est support de conservation de l'ensemble de contenus numériques de la BNF qu'il s'agisse des collections nummérisées ou bien de l'administratif ou encore de l'archivage du WEB. 
+> Source : SPAR, [site Web de la BNF](https://www.bnf.fr/fr/spar-systeme-de-preservation-et-darchivage-reparti).
+> 
 
 C’est environ deux semaines après une capture, qu’il est possible de naviguer à l’aide de la *Wayback machine* (indexation et navigation pour la recherche URL) ou *NutchWAX* (indexation plein texte et navigation pour la recherche par mot).
 de la BNF. Un système de navigation entre Web vivant et archives a aussi été mis en place par les bibliothécaires de la BNF. Ces outils sont à disposition des chercheurs entre les murs de la BNF ou de ses partenaires régionaux.
