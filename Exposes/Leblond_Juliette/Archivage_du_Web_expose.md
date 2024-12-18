@@ -7,17 +7,17 @@
 
 # Enjeux et contexte de l’archivage du Web :
 
-Initié par le chercheur Tim Berners-Lee en 1989, le Web s’est imposé comme un outil quotidien 
+Inventé par le chercheur Tim Berners-Lee en 1989, le Web s’est imposé comme un outil quotidien 
 support de données variées auxquels ont accès et/ou produisent des milliards d’utilisateurs à travers le monde. Le Web
 n’a pas cessé d’évoluer ces vingt dernières années, son architecture a
 été transformée et son emploi démocratisé[^1]. D’abord envisagé pour des
 chercheurs, c’est un public large qui s’est investi de ce service en
-participant lui-même à l’évolution de ce contenu. L’analyse du web
+participant à l’évolution de ce contenu et de son architecture. L’analyse du web
 permet de comprendre les sociétés contemporaines, ses enjeux et ses
 évolutions. Dans les années 1990, des historiens ont commencé à
 s’intéresser au Web. Les premiers travaux ont exposé les freins liés à
 cette pratique : l’instabilité et la pérennité des données pose un
-véritable défi pour les historiens. Elles sont en effet volatiles,
+véritable défi pour les historiens. Les données sont en effet volatiles,
 évoluent voire disparaissent. Leur disparition est matérialisée par le
 renvoi d’un message d’erreur 404. Ainsi, tout comme une charte de
 l’époque médiévale est altérée par le temps et dépend des conditions
@@ -33,32 +33,33 @@ quelles formes conserver ces données ?
 
 Conscients de ces enjeux, c’est d’abord un acteur privé, Brewster Khale,
 qui se lance dans un projet visant à archiver le Web en créant la
-fondation Internet Archive en 1996. C’est par l’utilisation de robots
+fondation *Internet Archive* en 1996. C’est par l’utilisation de robots
 *crawler*[^3] qu’il se lance dans une première copie de sites variés,
-qui concernent l’élection présidentielles de 1996 opposant Bill Clinton
+qui concernent l’élection présidentielle de 1996 opposant Bill Clinton
 à Bob Dole, avant de continuer en élargissant son œuvre. 
 
 <img src="768px-Internet_Archive_logo_and_wordmark.jpg" alt="alt text" width="400" height="400">       <img src="Khale.jpg" alt="alt text" width="400" height="400">    
 
 Il est possible de saisir les enjeux de construction de la mémoire nationale qui
-sous-tend ce premier projet dont l’entendu est important. En effet, une
+sous-tendent ce premier projet dont l’entendu est important. En effet, une
 élection mobilise un large panel d’acteurs de la vie politique et civile
 qui sont au fait de l’ensemble de moyens qui permettent de toucher
 l’électorat, *a fortioti* dans un pays où le vote n'est ni figé, ni
-prévisible dans les *swing states*. Khale est souvent présenté comme
-« un visionnaire, humaniste militant »[^4]. En effet, dans la stratégie
+prévisible dans les *swing states*. 
+
+Khale est souvent présenté comme « un visionnaire, humaniste militant »[^4]. En effet, dans la stratégie
 médiatique qu’il tente d’imposer pour publiciser son projet, il évoque
 sa volonté de constituer « une bibliothèque numérique universelle »[^5],
 à l’image de la Bibliothèque d’Alexandrie. Ce n’est donc pas anodin
-qu’une copie des données ait été envoyés à la bibliothèque d’Alexandrie.
+qu’une copie des données ait été envoyée à la bibliothèque d’Alexandrie.
 
 Dès lors, alors que des enjeux patrimoniaux et mémoriaux sous-tendent la
 question de l’archivage du Web, comment laisser un acteur privé archiver
-le Web d’états ? On voit donc se lancer dans des projets d’archivage du
-Web à l’initiative de bibliothèques nationales plusieurs pays. Ainsi, la
-Bibliothèque Nationale de Suède qui en 1997 entreprend une collecte à
-partir des sites répertoriés sur un nom de domaine national. Cette
-entreprise importante passe rapidement par la collaboration, c’est ainsi
+le Web d’états ? On voit donc se lancer dans des projets similaires des bibliothèques nationales plusieurs pays. Ainsi, la
+Bibliothèque Nationale de Suède est la première à entreprendre en 1997 une collecte à
+partir des sites répertoriés sur un nom de domaine national. 
+
+Cette entreprise importante passe rapidement par la collaboration, c’est ainsi
 qu’à l’échelle européenne, le *Network European Deposit Library* est
 initié dans le cadre du programme de recherche et développement de l’UE
 reposant sur la collaboration de neuf bibliothèques, trois maisons
@@ -66,17 +67,16 @@ d’éditions ainsi que des entreprises d’informatiques.
 
 En France, la question de l’archivage des productions mobilise
 directement la Bibliothèque nationale de France et l’Institut national
-de l’audiovisuel qui sont en charge du dépôt légal. Cette entreprise à
+de l’audiovisuel qui sont en charge du dépôt légal. Cette entreprise a
 une visée mémorielle. Il semble donc naturel que la charge d’archiver le
 Web français leur ait été confié.
-
 Dans quelle mesure la nature évolutive et complexe du Web a-t-elle
 modifié les pratiques de conservation et de valorisation de la BnF et de
 l’INA ? Comment les acteurs politiques mais aussi la BnF et l’INA
 envisagent-elles ces archives de nature numérique ? Quelles sont les
 modalités et les acteurs de l’archivage du Web français ? En quoi
 l’archivage du Web a-t-il également modifié les pratiques des historiens
-considérés dans le processus d’archivage ? Quelles sont les politiques
+dont le travail est pris en compte dans le processus d’archivage ? Quelles sont les politiques
 de valorisation des collections ?
 
 # Étendre les prérogatives de la BnF et de l’INA : les enjeux politiques et juridiques de l'élargissement du dépôt légal. 
