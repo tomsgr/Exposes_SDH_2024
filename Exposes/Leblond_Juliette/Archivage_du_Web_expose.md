@@ -1,9 +1,9 @@
 # L’Archivage du Web en France :
 
-**Photographie du serveur d'Internet Archives de la BNF**
 ![alt text](stockage_web.jpg)
 
-*Crédits : Morgan Tual, Le Monde*
+**Photographie des machines de stockage de archives du Web de la BNF situées dans le sous-sol du site François Mitterrand**         
+*Crédits : Morgan Tual, Le Monde, 26/10/2016*
 
 # Enjeux et contexte de l’archivage du Web :
 
@@ -36,8 +36,12 @@ qui se lance dans un projet visant à archiver le Web en créant la
 fondation Internet Archive en 1996. C’est par l’utilisation de robots
 *crawler*[^3] qu’il se lance dans une première copie de sites variés,
 qui concernent l’élection présidentielles de 1996 opposant Bill Clinton
-à Bob Dole, avant de continuer en élargissant son œuvre. Il est possible
-de saisir les enjeux de construction de la mémoire nationale qui
+à Bob Dole, avant de continuer en élargissant son œuvre. 
+
+
+
+
+Il est possible de saisir les enjeux de construction de la mémoire nationale qui
 sous-tend ce premier projet dont l’entendu est important. En effet, une
 élection mobilise un large panel d’acteurs de la vie politique et civile
 qui sont au fait de l’ensemble de moyens qui permettent de toucher
