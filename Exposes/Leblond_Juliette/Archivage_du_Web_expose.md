@@ -77,10 +77,11 @@ envisagent-elles ces archives de nature numérique ? Quelles sont les
 modalités et les acteurs de l’archivage du Web français ? En quoi
 l’archivage du Web a-t-il également modifié les pratiques des historiens
 dont le travail est pris en compte dans le processus d’archivage ? Quelles sont les politiques
-de valorisation des collections ?
+de valorisation des collections ? 
 
 # Étendre les prérogatives de la BnF et de l’INA : les enjeux politiques et juridiques de l'élargissement du dépôt légal. 
 
+> Notons d'ores et déjà que dans la législation, une confusion sémantique est faite entre Internet et le Web. Ainsi, si la > loi dispose de l'élargissement du dépôt légal à Internet, il s'agit en réalité du dépôt légal au Web. 
 
 La France connaît depuis 1537 le dépôt légal des documents. Il implique
 que l’ensemble des documents édités qui sont produits ou qui touchent la
@@ -89,14 +90,14 @@ Bibliothèque nationale de France et l’Institut national de
 l’audiovisuel. Ce dépôt a une véritable dimension patrimoniale. Il a été
 élargi à mesure où les pratiques de production ont évolué. Ainsi, par
 exemple, à la suite de la surpression du monopole étatique sur les
-contenus dans les années 1980, il est nécessaire, dans une visée
+contenus audiovisuels dans les années 1980, il est nécessaire, dans une visée
 patrimoniale et mémorielle de préserver les programmes nouveaux
 d’acteurs inédits sur le champ audiovisuel national. C’est ainsi que les
-législateurs s’emparent de la question en [1992](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000723108#:~:text=1er.,la%20disposition%20d'un%20public).
+législateurs s’emparent de la question en [1992](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000723108#:~:text=1er.,la%20disposition%20d'un%20public). 
+
 
 ## Une vision économique du Web : les prémices de l’archivage du Web
   
-
 Les débats politiques se concentrent d’abord sur la question des
 internautes français avec l’établissement du programme d’action
 gouvernemental de la société d’information, à l’initiative du
@@ -110,36 +111,32 @@ qu’ils produisent, notamment en ce qui concerne les industriels.
 Parallèlement, l’État confie l’archivage de ses premiers sites[^7] à la
 fondation privée d’Internet Archives en 1996. Se pose donc le souci que
 des informations politiques relatives à la mémoire d’un pays se
-retrouvent hébergés sur des serveurs aux États-Unis, fait prendre
+retrouvent hébergés sur des serveurs aux États-Unis. Cela fait prendre
 conscience aux acteurs politiques que cette activité devrait être le
 fruit de l’État lui-même. Il est alors convenu qu’une prochaine loi sur
 la société de l’information prendra en considération ces éléments.
 
-Ainsi, quand le projet de loi est proposé par le gouvernement à
+Ainsi, quand le projet de loi sur la société de l'information (LSI) est proposé par le gouvernement à
 l’Assemblée Nationale en mars 2000, toujours pilotée par L. Fabius,
 ministre de l’économie et des finances, une réflexion autour de
 l’archivage du Web français émerge. Il serait question d’élargir le
 dépôt légal au Web afin d’en archiver ses contenus[^8]. Mais, du fait
 d’un calendrier parlementaire serré, ces discussions n’aboutissent pas à
-des amendements[^9]. Pourtant ces discussions permettent de lever
+des amendements en ce sens[^9]. Pourtant ces discussions permettent de lever
 quelques questionnements. D’abord, il s’agit de définir une personnalité
-juridique au Web. Il s’agit de l’ensemble « des signes, signaux, écrits,
-images, sons ou messages, de toute nature faisant l’objet d’une
-communication publique en ligne »[^10]. Ensuite, il est question de la
+juridique au Web.  Ensuite, il est question de la
 méthode très concrète pour comprendre ce qu’il faudrait archiver et sur
 quelle unité se baser, c’est-à-dire, faudrait-il archiver la page, le
-site ou bien uniquement le document ? Ensuite, le souci est lié au fait
-qu’Internet est considéré comme une source de croissance économique. Il
+site ou bien uniquement le document ? Le paradoxe important est lié au fait
+que le Web est considéré comme une source de croissance économique. Il
 ne faudrait donc pas que le dépôt légal soit à la charge des acteurs
 producteurs, mais davantage celle de l’État. Enfin, c’est la question
 plus large du droit d’auteur qui est abordée.
 
 ## L’établissement difficile de la loi Dadvsi témoin de visions différentes autour du Web. 
   
-
 C’est à l’échelle européenne que les choses s’accélèrent. [Une directive
-du Parlement européen](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000523361) et du Conseil du 22 mai 2001[^11] relative à
-l’harmonisation de certains aspects du droit d’auteurs et des droits des
+du Parlement européen](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000523361) et du Conseil du 22 mai 2001[^11] relative à l’harmonisation de certains aspects du droit d’auteur et des droits des
 voisins dans la société de l’information. En vue
 de son adaptation dans le droit national français, un Conseil supérieur
 de la propriété littéraire et artistique est créé. Un premier paradoxe
@@ -147,8 +144,9 @@ apparait : pourquoi, alors que le dépôt légal est historiquement lié aux
 institutions publiques, archivistiques et documentaires, aucun acteur du
 secteur archivistique, des bibliothèques ou de la documentation n’y
 siège ? La loi est présentée par le gouvernement et par les médias comme
-liée à Internet, justifiant ainsi une exclusion de ces acteurs. Le texte
-qui éclot de cette discussion entre le CSPLA et le Conseil des ministres
+liée à Internet, justifiant ainsi une exclusion de ces acteurs. 
+
+Le texte qui émerge de cette discussion entre le Comité et le Conseil des ministres
 prévoit que seuls la BNF et l’INA sont habilités à copier « les contenus
 en ligne selon un mode d’échantillonnage permettant de constituer
 progressivement une mémoire collective »[^12], sans que les
@@ -161,9 +159,9 @@ revendications au Parlement. Ils souhaitent véritablement trouver un
 accès culturel. L’idée est d’autoriser les exceptions prévues par le
 Parlement européen à savoir, permettre à l’ensemble des institutions
 patrimoniales françaises (musées, bibliothèques, archives française) de
-reproduire à des de conservation et de communication et à des buts
+reproduire à des fins de conservation et de communication et à des buts
 pédagogiques. Ce qu’on observe donc c’est que ces acteurs patrimoniaux
-ont conscience que le Web est nouveau patrimoine et qu’il constitue un
+ont conscience que le Web est nouveau patrimoine, qu’il constitue un
 enjeu mémoriel et qu’il pourra être exploité à des fins pédagogiques et
 scientifiques.
 
@@ -175,7 +173,7 @@ investis des revendications portées par ces associations. Par rapport au
 projet originel du gouvernement, la loi protège strictement les
 producteurs, mais élargit les exceptions. Ainsi, les bibliothèques,
 musées et services d’archives sont autorisés à reproduire certaines
-données à condition qu’elles n’aient pas de visée commerciale. Ainsi, la
+données à condition qu’elles n’aient pas de visées commerciales. Ainsi, la
 BNF et l’INA sont considérés comme les instances légitimes à l’archivage
 des sites web et documents dématérialisés (à savoir logiciels et bases
 de données). La BNF est aussi « dépositaire des fichier numériques des
@@ -183,28 +181,23 @@ de données). La BNF est aussi « dépositaire des fichier numériques des
 réalisation d’éditions adaptées aux publics handicapés »[^14].
 
 ## Définir le « Web français » et un périmètre d’action : lesressorts du décret d’application de 2011.
-
-Il faut attendre le décret d’application de décembre 2011[^15], pour que
-l’ensemble « des signes, signaux, écrits et images, sons ou messages de
-toute nature faisant l’objet d’une communication par voie
-électronique », c’est-à-dire qu’un grand nombre de fichiers à
-destination du public, sont visés par la collecte. Ainsi, on note une
-première limitation de ces moissonnages qui ne touchent ni les
-correspondances privées ou les espaces privées hébergés sur le web.
+ 
+Il faut attendre le décret d’application de décembre 2011[^15], pour qu'une définition juridique du Web soit intégrée clairement à un texte juridique. LE Web est considéré comme un ensemble « des signes, signaux, écrits et images, sons ou messages de toute nature faisant l’objet d’une communication par voie
+électronique et public »[^10]., c’est-à-dire qu’un grand nombre de fichiers à
+destination du public, sont visés par la collecte. Avec cette définition, on note une
+première limitation des moissonnages. Il est interdit de collecter touche les
+correspondances privées et les espaces privées qui sont hébergés sur le web.
 Ensuite, il a été question d’établir ce qui est considéré comme un site
-français. Cette disposition est intrinsèquement liée à l’origine
-historique du dépôt légal. Ainsi, il a été décrété que les dites
-« enregistrés sous le nom de domaine .fr ou tout autre nom de domaine
-enregistré auprès des organismes français chargés de la gestion de ces
+français. Il a été décrété que les sites sont considérés comme français s'ils sont « enregistrés sous le nom de domaine .fr ou tout autre nom de domaine enregistré auprès des organismes français chargés de la gestion de ces
 noms, et/ou produits sur le territoire français ou enregistrés par une
-personne domiciliée en France »[^16]. Afin d’affiner ce protocole, La
+personne domiciliée en France »[^16]. Afin d’affiner ce protocole, la
 BNF fait appel à l’Association française pour le nommage internet en
 coopération (Afnic) qui est chargé d’attribuer les noms de domaine. Le
 robot peut aussi en réalité crawler les sites qui ont un autre nom de
 domaine comme *.com* ou *.org* si leur contenu a été produit en France.
 Le décret prévoit également que ces informations sont vérifiées à
-posteriori de la collecte. Ainsi, une marge de manœuvre est laissée à la
-fois à la BnF et aux éditeurs.
+*posteriori* de la collecte. Ainsi, une marge de manœuvre est laissée à la
+fois à la BnF et aux éditeurs qui peuvent faire recours.
 
 Ainsi, malgré une définition difficile, la loi et son décret
 d’application traduisent parfaitement la vision du Web comme faisant
@@ -214,9 +207,8 @@ contemporaines.
 
 # Les enjeux techniques de la collecte : préserver, conserver et valoriser le patrimoine français.
 
-Une fois le cadre légal établit, on peut penser que la question de
-comment concrètement archiver ce qu’on considère comme le Web français
-doit être posée. Il faut aussi mener une réflexion autour de ce qu’on
+Une fois le cadre légal établi, comment concrètement archiver ce qu’on considère comme le Web français?
+Il faut aussi mener une réflexion autour de ce qu’on
 considère comme étant une archive du Web. Comme le montre Schafer,
 Muisiani et Borelli en 2016, elle ne constitue aucunement un objet
 statique et elle dépend des modalités de la collecte, des technologies
@@ -226,7 +218,7 @@ le Web ne va pas être archivé de la même manière s’il a pour but de
 servir un modèle documentaire, mémoriel ou encore temporel. Pour autant,
 pour Niels Ole Finneman, il y aurait tout de même une convergence des
 méthodes déployées par les États et les institutions compétentes autour
-de la question d’archives du web : obtenir par la collecte un contenu
+de la question d’archives du web. Il s'agirait d'obtenir par la collecte un contenu
 original et ses évolutions, ainsi qu’une visée d’exploitation et
 d’analyse par des spécialistes. On retrouve totalement cette vision avec
 la loi Dadvsi.
@@ -235,7 +227,7 @@ Plus largement, comment dépasser les problèmes techniques définis par
 Howard Besser[^18] liés à la préservation du numérique, à savoir le
 stockage et la maintenance concrète des archives, l’intégrité du
 document et de son contexte, la pratique d’acquisition, et la perte
-d’information lors de la migration d’un support vers un autre.
+d’information lors de la migration d’un support vers un autre ?
 
 ## Le moissonnage large des sites : vers une représentativité du web ?
 
