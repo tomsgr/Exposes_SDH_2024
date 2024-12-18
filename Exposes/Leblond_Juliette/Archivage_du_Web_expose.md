@@ -534,9 +534,9 @@ les processus d’évolution de la médiatisation qui peuvent traduire des
 demandes de reconfigurations mémorielles dans les politiques
 culturelles.
 
-># Bibliographie : 
+>### Bibliographie : 
 >
->## Monographies 
+>#### Monographies 
 >Musiani, Francesca, Camille Paloque-Berges, Valérie Schafer, et Benjamin G. Thierry. *Qu’est-ce qu’une archive du Web* Encyclopédie Numérique. Marseille: Open Edition Press, 2019.
 >
 >Revel, Jacques et Passeron, Jean-Claude. *Penser par cas*. Éditions de l’École des hautes études en sciences sociales, 2005.
@@ -547,13 +547,13 @@ culturelles.
 >Musiani, Francesca. « Archivage du Web, un enjeu de gouvernance d’Internet ». In Clarrise Bardidot, Esther Dehoux, Emilien Ruiz (dir). *La fabrique numérique des corpus en sciences humaines et sociales*, Presses Universitaires du Septentrion., 2022.
 >
 >
->## Mémoires et Thèses 
+>#### Mémoires et Thèses 
 >Chaimbault, Thomas. *L’archivage du Web* . École nationale supérieure des sciences de l’information et des bibliothèques, 2008. https://www.enssib.fr/bibliotheque-numerique/documents/1730-l-archivage-du-web.pdf.
 >
 >Zielinski, Océane. * L’archivage du web français par la Bibliothèque nationale de France : une nouvelle approche des missions de la BNF?* Mémoire, Angers, 2019. https://dune.univ-angers.fr/fichiers/18009927/2019HMSIB11183/fichier/11183F.pdf.
 >
 >
->## Articles de revues 
+>#### Articles de revues 
 >Foatelli, Alexandre. « L’archivage du web : un outil pour comprendre internet ». *La Revue des médias*, 2016. https://larevuedesmedias.ina.fr/larchivage-du-web-un-outil-pour-comprendre-internet#.
 >
 >Genevievepiejut. « Quand le web devient une archive : la construction du cadre légal ». *WebCorpora : explorer les archives d'Internet*, 15 juin 2017. https://doi.org/10.58079/VA8I.
@@ -567,7 +567,7 @@ culturelles.
 >Mussou, Claude. « Et le Web devint archive : enjeux et défis »: *Le Temps des médias* n° 19, no 2 (16 novembre 2012): 259 66. https://doi.org/10.3917/tdm.019.0259.
 >
 >
-> ## Articles de presse : 
+> #### Articles de presse : 
 >
 >Croquet, Pierre. « Comment les archivistes de la BNF sauvegardent la mémoire du confinement sur Internet ». *Le Monde*, 15 mai 2020. https://www.lemonde.fr/pixels/article/2020/05/15/a-la-bnf-les-archivistes-du-web-sauvegardent-l-internet-francais-du-confinement_6039704_4408996.html.
 >
