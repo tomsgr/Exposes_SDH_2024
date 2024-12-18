@@ -278,6 +278,9 @@ terme.Le signalement de données repose sur des normes établies à l’échelle
 internationale depuis 2008. Il est véritablement nécessaire à
 l’interrogation des données. 
 
+> ### La patrimonialisation des archives à la BNF :
+> ![alt text](
+
 C’est environ deux semaines après une capture, qu’il est possible de naviguer à l’aide de la *Wayback machine* (indexation et navigation pour la recherche URL) ou *NutchWAX* (indexation plein texte et navigation pour la recherche par mot).
 de la BNF. Un système de navigation entre Web vivant et archives a aussi été mis en place par les bibliothécaires de la BNF. Ces outils sont à disposition des chercheurs entre les murs de la BNF ou de ses partenaires régionaux.
 
