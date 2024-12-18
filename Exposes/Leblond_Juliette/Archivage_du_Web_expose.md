@@ -240,12 +240,15 @@ technologie *Heritrix* développée par Internet Archive. Très
 concrètement, ce robot moissonneur fait ce qu’on appelle du *web
 scrapping*. Il est chargé de collecter le code source, la mise en page
 CSS, les fichiers HTML ou encore les fichiers binaires (photos,
-vidéos…). En fonction des collectes, un paramétrage des robots est
+vidéos…). L'indexation permet  de séparer les objets archivés - c'est-à-dire les images, le texte, les vidéos... -  et les informations liés à la structure de l’affichage - paragraphes, formats tabulaires, styles…. Chaque information est associée à une clé d’identification. Ainsi, quand l’utilisateur fera une requête, il est associe des éléments entre eux. 
+En fonction des collectes, un paramétrage des robots est
 établi : on précise la profondeur, la date, la qualité et l’étendu de la
 collection. Collecter en profondeur signifie que les robots récupèrent
 les liens entrants qui sont à l’intérieur d’un site et collecter en
 largeur que ce sont les liens sortants vers d’autres sites qui sont
-récupérés. Pour autant, ce moissonnage est limité pour des raisons
+récupérés. 
+
+Pour autant, ce moissonnage est limité pour des raisons
 pratiques liées au stockage. Il peut également être limité par les
 producteurs qui peuvent tout à fait intégrer dans leur site un protocole
 d’exclusion des robos qu’on appelle *robots.txt*[^19].
@@ -255,7 +258,7 @@ pendant de la collecte autour de la qualité à l’aide d’un échantillon
 sur lequel on analyse le poids, la taille ou la répartition des
 collections par types de fichier. Il y a aussi des technologies qui
 permettent d’éviter le dédoublement et de vérifier que l’URL est encore
-en ligne.
+en ligne. 
 
 Une fois collectés, ces données sont stockés sur un format propre aux archives du
 Web, des fichiers ARC sur lesquels on retrouve le fichier compressé issu du
@@ -275,9 +278,8 @@ terme.Le signalement de données repose sur des normes établies à l’échelle
 internationale depuis 2008. Il est véritablement nécessaire à
 l’interrogation des données. 
 
-C’est environ deux semaines après une capture, qu’il est possible de naviguer à l’aide de la *Wayback machine*
-de la BNF, de naviguer sur le web dit vivant. Ces outils sont évidemment
-à disposition des chercheurs entre les murs de la BNF.
+C’est environ deux semaines après une capture, qu’il est possible de naviguer à l’aide de la *Wayback machine* (indexation et navigation pour la recherche URL) ou *NutchWAX* (indexation plein texte et navigation pour la recherche par mot).
+de la BNF. Un système de navigation entre Web vivant et archives a aussi été mis en place par les bibliothécaires de la BNF. Ces outils sont à disposition des chercheurs entre les murs de la BNF ou de ses partenaires régionaux.
 
 On retrouve la même logique en ce qui concerne l’INA, à la différence
 que la masse de sites est différente puisque ce sont environ 14 000
