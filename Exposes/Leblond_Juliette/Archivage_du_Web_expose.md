@@ -365,12 +365,28 @@ Nick Ruest aient collectés des Tweets. Ces collectes ont véritablement
 nécessité une adaptation rapide et donné lieu à une approche
 quantitative des traces numériques des attentats.
 
-D’autre part, il existe des collectes dites courantes qui sont également
-ciblées. Il s’agit de collectes sur des sites de référence qui
+D’autre part, il existe des collectes dites courantes qui sont également ciblées. 
+Il s’agit de collectes sur des sites de référence qui 
 permettent de garantir « une continuité patrimoniale »[^22]. On retrouve
 donc ciblés par ces collectes des périodiques, de la musique, ou encore
 des encyclopédies. Elles répondent aux politiques documentaires de
 chacun des départements de la BNF et de l’INA. 
+
+> ### Quelques chiffres relatifs à la collecte de la BNF de 2023: 
+> [Communication officielle de la Bibliothèque Nationale de France en février 2024.](https://www.bnf.fr/sites/default/files/2024-02/CP_bilan_archivage_du_web_2023.pdf) 
+>
+>1. Moissonnage large :
+>   - 5 731 808 domaines moissonnés.
+>   - 2 200 URL collectées par domaine.
+>   - 3 173 362 231 URL sauvegardées.
+>     
+>2. Deux collectes d'urgence
+>  - Les Skyblogs, entreprise de la BNF et de l'INA depuis 2022.
+>     - 12 607 289 blogs.
+>     - 1 873 992 846 URL.
+>  -  Pages personnelles Orange :
+>      - 298 188 sites.
+>      - 26 094 982 URL.
 
 # Utiliser les archives du Web : les enjeux méthodologiques des recherches à partir du Web français.
     
@@ -443,16 +459,16 @@ produire un discours historique à partir de ces corpus ? Comment les
 historiens prennent-ils en considération les spécificités de ces
 collections ? Quelles sont les nouvelles contraintes et limites ?
 
-### Quelques travaux méthodologiques et historiques à partir du Web français  :
-
-- [Sophie Gebeil,"Les mémoires de l'immigration maghrébine sur le Web français (1996-2013)"," Migrations Sociétés", n°151(1), pp.165-180](https://shs.cairn.info/revue-migrations-societe-2014-1-page-165?lang=fr) 
-- [Sophie Gebeil, "Web vivant et web archivé, aux sources de l’histoire nativement numérique",*Le web :
-source et archive*, Soutenu par le GIS CollEx-Persée et porté par le Service Commun de Documentation
-de l’Université de Lille et la Bibliothèque nationale de France, en partenariat avec le GERiiCO de
-l’Université de Lille, Sciences Po et le Campus Condorcet, le réseau ResPaDon se donne pour objectif
-d’ouvrir un espace de dialogue entre chercheurs et professionnels des bibliothèques et des archives.,
-Apr 2023, Lille, France.](https://amu.hal.science/hal-04058328/document)
-- [Quentin Lobbé, "Continuity and discontinuity in web archives: a multi-level reconstruction of the firsttuesday community through persistences, continuity spaces and web cernes", *Internet Histories*, 2023.](https://www.tandfonline.com/doi/full/10.1080/24701475.2023.2254050)
+> ### Quelques travaux méthodologiques et historiques à partir du Web français  :
+>
+> - [Sophie Gebeil,"Les mémoires de l'immigration maghrébine sur le Web français (1996-2013)"," Migrations Sociétés", n°151(1), pp.165-180](https://shs.cairn.info/revue-migrations-societe-2014-1-page-165?lang=fr) 
+> - [Sophie Gebeil, "Web vivant et web archivé, aux sources de l’histoire nativement numérique",*Le web :
+> source et archive*, Soutenu par le GIS CollEx-Persée et porté par le Service Commun de Documentation
+> de l’Université de Lille et la Bibliothèque nationale de France, en partenariat avec le GERiiCO de
+> l’Université de Lille, Sciences Po et le Campus Condorcet, le réseau ResPaDon se donne pour objectif
+> d’ouvrir un espace de dialogue entre chercheurs et professionnels des bibliothèques et des archives.,
+> Apr 2023, Lille, France.](https://amu.hal.science/hal-04058328/document)
+> - [Quentin Lobbé, "Continuity and discontinuity in web archives: a multi-level reconstruction of the firsttuesday community through > persistences, continuity spaces and web cernes", *Internet Histories*, 2023.](https://www.tandfonline.com/doi/full/10.1080/24701475.2023.2254050)
 
 Notons d’abord que comme nous l’avons souligné, les archives du Web sont
 lacunaires et incomplètes notamment du fait des enjeux autour de la
