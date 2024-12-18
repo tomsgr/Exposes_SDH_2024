@@ -534,6 +534,8 @@ les processus d’évolution de la médiatisation qui peuvent traduire des
 demandes de reconfigurations mémorielles dans les politiques
 culturelles.
 
+
+
 >### Bibliographie : 
 >
 >#### Monographies 
@@ -543,7 +545,7 @@ culturelles.
 >
 >Sitts, Maxine K. *Handbook for Digital Projects: A Management Tool for Preservation and Access*. Andover, Massachusetts: Northeast Document Conservation Center, 2000.
 >
->## Chapitre d’ouvrage : 
+>#### Chapitre d’ouvrage : 
 >Musiani, Francesca. « Archivage du Web, un enjeu de gouvernance d’Internet ». In Clarrise Bardidot, Esther Dehoux, Emilien Ruiz (dir). *La fabrique numérique des corpus en sciences humaines et sociales*, Presses Universitaires du Septentrion., 2022.
 >
 >
