@@ -289,20 +289,19 @@ les logiques des institutions patrimoniales.
 
 ## Les collectes ciblées : un processus sélectif révélant les enjeux d’une construction mémorielle :
 
-À côté de ce moissonnage large, il existe un modèle de section ciblé.
+À côté de ce moissonnage large, il existe un modèle de selection ciblé.
 C’est d’ailleurs par ce modèle que la BNF a débuté son expérimentation
 d’archivage du Web, bien avant le cadre légal, au début des années 2000.
 
-Des premières collectes ciblées sont effectuées entre 2002 lors des
+Des premières collectes ciblées sont effectuées entre 2002 et 2004 lors des
 élections présidentielles, régionales et européennes. Pour autant, elle
-a impliqué da manière active dans ce processus Internet Archive. Ces
-sont au total 3500 sites qui ont été moissonnés lors des deux collectes
-effectuées. La collecte est donc thématique, ce qui a nécessité un
-paramétrage précis qui est passé par la création d’un comprenant 18
+a impliqué da manière active dans ce processus *Internet Archive*. En 2002, ce 
+sont au total 3500 sites qui ont été moissonnés. La collecte est  thématique, ce qui a nécessité un
+paramétrage précis qui est passé par la création d’un Comité comprenant 18
 acteurs de différents départements de la BNF notamment appartenant au
-département d’Histoire, de Droit et Science politique et celui du dépôt
+département d’Histoire et Philosophie, de Droit et Science politique et celui du dépôt
 légal. Ces acteurs, aux visions différentes ont réussi à établir ce que
-Catherine Lupovici appelle « une typologie de sites », afin de cibler
+Catherine Lupovici appelle une typologie de sites, afin de cibler
 les sites. Ce sont des productions d’organisation politiques, de
 candidats, de médias satiriques, humoristique ou traditionnels,
 d’institutions officielles, d’observatoire, du net-citoyenneté ou encore
@@ -319,7 +318,7 @@ partis ont été collectés plusieurs fois par semaine, ceux des médias,
 une fois par semaine pendant le premier tour et trois fois pendant le
 second tour[^21].
 
-Cette pratique s’est ensuite imposée et élargit notamment du fait des
+Cette pratique s’est ensuite imposée et élargie notamment du fait des
 évolutions dépôt légal et des pratiques de campagne électoral et
 l’utilisation des médias sociaux.
 
