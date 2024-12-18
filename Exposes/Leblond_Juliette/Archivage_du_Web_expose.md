@@ -379,7 +379,9 @@ chacun des départements de la BNF et de l’INA.
 >      - 26 094 982 URL.
 
 # Utiliser les archives du Web : les enjeux méthodologiques des recherches à partir du Web français.
-    
+
+Le processus d'archivage du Web est techniquement complexe et nécessite aussi des moyens humains et économiques importants. Ainsi, c'est par la collaboration que des normes sont trouvées afin de faciliter l'appréhension de ces données par les chercheurs habilités à exploiter les archives sans cesse en extention. Ceux-ci sont en réalité intégrés dans le processus. Par ailleurs, ces archives d'une nature nouvelle nécessite de prendre en compte les spécificités dans leur recherches.  
+
   ## Une collaboration poussée entre acteurs : entre standardisation et approfondissements.
 
 Ce travail nécessite donc un ensemble d’acteurs importants à différentes
@@ -444,7 +446,7 @@ des mémoires du Web dans les années 1990.
 Comme nous l’avons précédemment souligné, l’archivage du Web français
 est avant tout pensé pour un public de chercheur. Ils sont intégrés
 pleinement dans le processus de création d’archives et sont invités à
-consulter ces archives entre les murs de la BNF. Pour autant, comment
+consulter ces archives entre les murs de la BNF et de l'INA et de leurs partenaires. Pour autant, comment
 produire un discours historique à partir de ces corpus ? Comment les
 historiens prennent-ils en considération les spécificités de ces
 collections ? Quelles sont les nouvelles contraintes et limites ?
@@ -460,8 +462,7 @@ collections ? Quelles sont les nouvelles contraintes et limites ?
 > Apr 2023, Lille, France.](https://amu.hal.science/hal-04058328/document)
 > - [Quentin Lobbé, "Continuity and discontinuity in web archives: a multi-level reconstruction of the firsttuesday community through > persistences, continuity spaces and web cernes", *Internet Histories*, 2023.](https://www.tandfonline.com/doi/full/10.1080/24701475.2023.2254050)
 
-Notons d’abord que comme nous l’avons souligné, les archives du Web sont
-lacunaires et incomplètes notamment du fait des enjeux autour de la
+Notons d’abord que les archives du Web sont lacunaires et incomplètes notamment du fait des enjeux autour de la
 représentativité du Web qui définissent les collectes biannuelles de la BNF et de l’INA. Il peut manquer
 des pages entières notamment quand il s’agit des premières
 expérimentations d’Internet Archive récupérées par la BNF au début des années 2000. De plus,
@@ -485,9 +486,7 @@ propose par ailleurs une méthodologie à partir du site de l’association
 Génériques [www.generiques.org](http://www.generiques.org) dans le but
 d’étudier les mémoires de l’immigration. Pour se faire, l’historienne a
 débuté le dépouillement des corpus archivé, par la compréhension de sa
-constitution et a ensuite confronté des versions archivées et
-éventuellement à des sources complémentaires. Dans le cas de son étude,
-elle a par exemple mené des enquêtes orales des acteurs de
+constitution. Elle a ensuite confronté plusieurs versions archivées et à des sources complémentaires. Dans le cas de son étude, elle a par exemple mené des enquêtes orales des acteurs de
 l’association.
 
 La complexité des données permet aux historiens d’aborder les corpus à
@@ -497,7 +496,7 @@ partir d’un seul site. Ainsi, l’historien peut se concentrer sur
 l’historicité du contenu à travers sa production, ses producteurs et sa
 temporalité. Mais au contraire, la masse de données peut à l’inverse
 favoriser une lecture distante. On peut citer ici la thèse de Quentin
-Lobbé qui travaille sur les e-diasporas à partir des forums Yabiladi.fr
+Lobbé qui a travaillé sur les e-diasporas à partir des forums Yabiladi.fr
 qui a été archivé par l’INA. Il expose sa méthode comme étant « une
 exploration désagrégée de corpus d’archives Web » à partir « de
 sous-ensembles cohérents et auto-suffisant d’une page Web »[^29]. Il a
