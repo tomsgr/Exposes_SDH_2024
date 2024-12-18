@@ -6,14 +6,13 @@
 *Crédits : Morgan Tual, Le Monde, 26/10/2016*
 
 ># Sommaire: 
->- [Introduction](#enjeux-et-contexte-de-larchivage-du-web)
+>- [Introduction](#naissance-dune-problematique-complexe.)
 >- [Étendre les prérogatives de la BnF et de l’INA : les enjeux politiques et juridiques de l'élargissement du dépôt légal](#etendre-les-prerogatives-de-la-bnf-et-de-lina--les-enjeux-politiques-et-juridiques-de-lelargissement-du-depot-legal)
 >- [Les enjeux techniques de la collecte : préserver, conserver et valoriser le patrimoine français](#les-enjeux-techniques-de-la-collecte--preserver-conserver-et-valoriser-le-patrimoine-francais)
 >- [Utiliser les archives du Web : les enjeux méthodologiques des recherches à partir du Web français](#utiliser-les-archives-du-web--les-enjeux-methodologiques-des-recherches-a-partir-du-web-francais)
 
-
   
-# Enjeux et contexte de l’archivage du Web :
+# L'archivage du Web : naissance d'une problématique complexe. 
 
 Inventé par le chercheur Tim Berners-Lee en 1989, le Web s’est imposé comme un outil quotidien 
 support de données variées auxquels ont accès et/ou produisent des milliards d’utilisateurs à travers le monde. Le Web
