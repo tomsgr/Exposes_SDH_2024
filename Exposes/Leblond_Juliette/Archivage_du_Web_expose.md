@@ -6,7 +6,7 @@
 *Crédits : Morgan Tual, Le Monde, 26/10/2016*
 
 ># Sommaire: 
->- [Introduction](enjeux-et-contexte-de-larchivage-du-web)
+>- [Introduction](#enjeux-et-contexte-de-larchivage-du-web)
 >- [Étendre les prérogatives de la BnF et de l’INA : les enjeux politiques et juridiques de l'élargissement du dépôt légal](#etendre-les-prerogatives-de-la-bnf-et-de-lina--les-enjeux-politiques-et-juridiques-de-lelargissement-du-depot-legal)
 >- [Les enjeux techniques de la collecte : préserver, conserver et valoriser le patrimoine français](#les-enjeux-techniques-de-la-collecte--preserver-conserver-et-valoriser-le-patrimoine-francais)
 >- [Utiliser les archives du Web : les enjeux méthodologiques des recherches à partir du Web français](#utiliser-les-archives-du-web--les-enjeux-methodologiques-des-recherches-a-partir-du-web-francais)
