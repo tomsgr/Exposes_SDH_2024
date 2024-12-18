@@ -231,11 +231,14 @@ original et ses évolutions, ainsi qu’une visée d’exploitation et
 d’analyse par des spécialistes. On retrouve totalement cette vision avec
 la loi Dadvsi.
 
+![alt text](BNF.jpg)         <img src="Logo_INA.jpg" alt="alt text" width="250" height="250">  
+
 Plus largement, comment dépasser les problèmes techniques définis par
 Howard Besser[^18] liés à la préservation du numérique, à savoir le
 stockage et la maintenance concrète des archives, l’intégrité du
 document et de son contexte, la pratique d’acquisition, et la perte
 d’information lors de la migration d’un support vers un autre ?
+
 
 ## Le moissonnage large des sites : vers une représentativité du web ?
 
