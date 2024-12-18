@@ -352,16 +352,14 @@ pandémie et du confinement. Son but est de comprendre le caractère
 global, social et économique de la crise. Ce projet a été mené par la
 BNF en partenariat avec quinze partenaires en région. C’est ensuite un
 travail de valorisation qui a été fait puisqu’un parcours guidé a été
-mis en ligne par les conservateurs et des chercheurs
-(<https://www.bnf.fr/sites/default/files/2021-03/epidemie_Covid19_parcours.pdf>
-). Parmi ces collectes projets, on compte notamment ce qu’on appelle les
+mis en ligne par les conservateurs et des chercheurs. Parmi ces collectes projets, on compte notamment ce qu’on appelle les
 collectes dites « d’urgences » qui ont la même dynamique qu’une
 conservation d’urgence dans le sens où il s’agit de capturer rapidement
 les sites à collecter à des dates précises ou qui pourraient
 disparaître. On voit donc une prise de conscience dans ces pratiques de
 la nature très éphémères des données sur le Web. Ainsi par exemple, en
 2015, l’INA et la BNF ont lancé une collecte d’urgence autour de la
-couverture médiatique des attentats et des réactions des internautes, à
+[couverture médiatique des attentats](https://www.ina.fr/ina-eclaire-actu/video/5609665_001_041/attentats-a-paris-les-annonces-de-bernard-cazeneuve) et des réactions des internautes, à
 la suite que des internautes comme le chercheur de l’université de York
 Nick Ruest aient collectés des Tweets. Ces collectes ont véritablement
 nécessité une adaptation rapide et donné lieu à une approche
@@ -372,7 +370,7 @@ ciblées. Il s’agit de collectes sur des sites de référence qui
 permettent de garantir « une continuité patrimoniale »[^22]. On retrouve
 donc ciblés par ces collectes des périodiques, de la musique, ou encore
 des encyclopédies. Elles répondent aux politiques documentaires de
-chacun des départements de la BNF et de l’INA.
+chacun des départements de la BNF et de l’INA. 
 
 # Utiliser les archives du Web : les enjeux méthodologiques des recherches à partir du Web français.
     
