@@ -5,6 +5,13 @@
 **Photographie des machines de stockage de archives du Web de la BNF situées dans le sous-sol du site François Mitterrand**         
 *Crédits : Morgan Tual, Le Monde, 26/10/2016*
 
+># Sommaire: 
+>- [Introduction](#Enjeux-et-contexte-de-l'archivage-du-Web)
+>- [Étendre les prérogatives de la BnF et de l’INA : les enjeux politiques et juridiques de l'élargissement du dépôt légal](#Étendre-les-prérogatives-de-la-BnF-et-de-l’INA-:-les-enjeux-politiques-et-juridiques-de-l'élargissement-du-dépôt-légal.)
+>- [Les enjeux techniques de la collecte : préserver, conserver et valoriser le patrimoine français](#Les-enjeux-techniques-de-la-collecte-:-préserver,-conserver-et-valoriser-le-patrimoine-français.)
+>- [Utiliser les archives du Web : les enjeux méthodologiques des recherches à partir du Web français](#Utiliser-les-archives-du-Web-:-les-enjeux-méthodologiques-des-recherches-à-partir-du-Web-français.)
+
+  
 # Enjeux et contexte de l’archivage du Web :
 
 Inventé par le chercheur Tim Berners-Lee en 1989, le Web s’est imposé comme un outil quotidien 
