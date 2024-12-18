@@ -411,8 +411,8 @@ Le processus d'archivage du Web est techniquement complexe et nécessite aussi d
 
 Ce travail nécessite donc un ensemble d’acteurs importants à différentes
 échelles, régionales, nationales mais aussi internationale. Dès 2003, la
-BNF a fait partie des fondateurs du consortium international pour la
-préservation de l’internet (IIPC) qui compte aujourd’hui plus de
+BNF a fait partie des fondateurs du [consortium international pour la
+préservation de l’internet (IIPC)](https://netpreserve.org/) qui compte aujourd’hui plus de
 cinquante membres. On note d’abord une collaboration technique puisque
 les logiciels de moissonnages et permettant la consultation sont le
 fruit d’une création commune. Ainsi, le format WARC (ISO 28500) qui
