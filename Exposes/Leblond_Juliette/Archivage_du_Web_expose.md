@@ -153,6 +153,9 @@ secteur archivistique, des bibliothèques ou de la documentation n’y
 siège ? La loi est présentée par le gouvernement et par les médias comme
 liée à Internet, justifiant ainsi une exclusion de ces acteurs. 
 
+![alt text](images.jpg)
+
+
 Le texte qui émerge de cette discussion entre le Comité et le Conseil des ministres
 prévoit que seuls la BNF et l’INA sont habilités à copier « les contenus
 en ligne selon un mode d’échantillonnage permettant de constituer
