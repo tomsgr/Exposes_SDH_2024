@@ -537,14 +537,14 @@ culturelles.
 ># Bibliographie : 
 >
 >## Monographies 
->Musiani, Francesca, Camille Paloque-Berges, Valérie Schafer, et Benjamin G. Thierry. *Qu’est-ce qu’une archive du Web* >Encyclopédie Numérique. Marseille: Open Edition Press, 2019.
+>Musiani, Francesca, Camille Paloque-Berges, Valérie Schafer, et Benjamin G. Thierry. *Qu’est-ce qu’une archive du Web* Encyclopédie Numérique. Marseille: Open Edition Press, 2019.
 >
 >Revel, Jacques et Passeron, Jean-Claude. *Penser par cas*. Éditions de l’École des hautes études en sciences sociales, 2005.
 >
 >Sitts, Maxine K. *Handbook for Digital Projects: A Management Tool for Preservation and Access*. Andover, Massachusetts: Northeast Document Conservation Center, 2000.
 >
 >## Chapitre d’ouvrage : 
->Musiani, Francesca. « Archivage du Web, un enjeu de gouvernance d’Internet ». In Clarrise Bardidot, Esther Dehoux, >Emilien Ruiz (dir). *La fabrique numérique des corpus en sciences humaines et sociales*, Presses Universitaires du Septentrion., 2022.
+>Musiani, Francesca. « Archivage du Web, un enjeu de gouvernance d’Internet ». In Clarrise Bardidot, Esther Dehoux, Emilien Ruiz (dir). *La fabrique numérique des corpus en sciences humaines et sociales*, Presses Universitaires du Septentrion., 2022.
 >
 >
 >## Mémoires et Thèses 
