@@ -180,7 +180,7 @@ de données). La BNF est aussi « dépositaire des fichier numériques des
 éditeurs qui sont mis à disposition d’organismes agrées pour la
 réalisation d’éditions adaptées aux publics handicapés »[^14].
 
-## Définir le « Web français » et un périmètre d’action : lesressorts du décret d’application de 2011.
+## Définir le « Web français » et un périmètre d’action : les ressorts du décret d’application de 2011.
  
 Il faut attendre le décret d’application de décembre 2011[^15], pour qu'une définition juridique du Web soit intégrée clairement à un texte juridique. LE Web est considéré comme un ensemble « des signes, signaux, écrits et images, sons ou messages de toute nature faisant l’objet d’une communication par voie
 électronique et public »[^10]., c’est-à-dire qu’un grand nombre de fichiers à
@@ -231,15 +231,15 @@ d’information lors de la migration d’un support vers un autre ?
 
 ## Le moissonnage large des sites : vers une représentativité du web ?
 
-La BnF s’est dotée d’une cinquantaine de robots moissonneurs qui sont
+La BnF s'est dotée d’une cinquantaine de robots moissonneurs qui sont
 chargés deux fois par an, d’identifier et de copier automatiquement les
 fichiers en ligne dans les dispositions du décret d’application de 2011.
 On pourrait comparer cette démarche à celle d’un utilisateur qui
-cliquerait sur tous les sites qu’ils rencontrent. Elle utilise la
+cliquerait sur tous les sites qu’ils rencontrent. Ils utilisent la
 technologie *Heritrix* développée par Internet Archive. Très
 concrètement, ce robot moissonneur fait ce qu’on appelle du *web
 scrapping*. Il est chargé de collecter le code source, la mise en page
-CSSS, les fichiers HTML ou encore les fichiers binaires (photos,
+CSS, les fichiers HTML ou encore les fichiers binaires (photos,
 vidéos…). En fonction des collectes, un paramétrage des robots est
 établi : on précise la profondeur, la date, la qualité et l’étendu de la
 collection. Collecter en profondeur signifie que les robots récupèrent
@@ -257,26 +257,25 @@ collections par types de fichier. Il y a aussi des technologies qui
 permettent d’éviter le dédoublement et de vérifier que l’URL est encore
 en ligne.
 
-Une fois collectés, sont stockés sur un format propre aux archives du
-Web, des fichiers ARC sur lesquels on retrouve le fichier issu du
-moissonnage compressé ainsi qu’un ensemble de métadonnées comme la date
+Une fois collectés, ces données sont stockés sur un format propre aux archives du
+Web, des fichiers ARC sur lesquels on retrouve le fichier compressé issu du
+moissonnage  ainsi qu’un ensemble de métadonnées comme la date
 de capture, le poids…. Ensuite, ces fichiers ARC sont stockés sur des
 disques appelés Petabox d’une capacité d’entre 60 et 120 téraoctets.
 C’est bien à partir de ces disques qu’on peut consulter les archives.
 Pour autant, la BNF est avant tout une instance de conservation. Dès
-lors, ces fichiers ARC sont copiés et sauvegardés dans un système appelé
-Spar (Système de préservation et d’archivage réparti). C’est à cette
+lors, ces fichiers ARC sont aussi copiés et sauvegardés dans un système appelé
+SPAR (Système de préservation et d’archivage réparti). C’est à cette
 étape qu’intervient la normalisation des données en vue de
 l’interopérabilité. En effet, il faut que ces fichiers suivent le modèle
 de *l’Open Archival Information System*. Ainsi, chaque fichier doit
-recevoir un identifiant et une validation et chaque fait l’objet de
+recevoir un identifiant et une validation et chacun fait l’objet de
 migration et d’émulation afin de pouvoir rester lisibles sur le long
-terme.
-
-Le signalement de données repose sur des normes établies à l’échelle
+terme.Le signalement de données repose sur des normes établies à l’échelle
 internationale depuis 2008. Il est véritablement nécessaire à
-l’interrogation des données. C’est environ deux semaines après une
-capture, qu’il est possible de naviguer à l’aide de la Wayback machine
+l’interrogation des données. 
+
+C’est environ deux semaines après une capture, qu’il est possible de naviguer à l’aide de la *Wayback machine*
 de la BNF, de naviguer sur le web dit vivant. Ces outils sont évidemment
 à disposition des chercheurs entre les murs de la BNF.
 
