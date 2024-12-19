@@ -189,7 +189,7 @@ données à condition qu’elles n’aient pas de visées commerciales. Ainsi, l
 BNF et l’INA sont considérés comme les instances légitimes à l’archivage
 des sites web et documents dématérialisés (à savoir logiciels et bases
 de données). La BNF est aussi « dépositaire des fichier numériques des
-éditeurs qui sont mis à disposition d’organismes agrées pour la
+éditeurs qui sont mis à disposition d’organismes agréés pour la
 réalisation d’éditions adaptées aux publics handicapés »[^14].
 
 ## Définir le « Web français » et un périmètre d’action : les ressorts du décret d’application de 2011.
