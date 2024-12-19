@@ -37,7 +37,7 @@ Pourtant, la question de comment récupérer et stocker sans altérer le
 nombre important de données qui structurent une page Web se pose. Sous
 quelles formes conserver ces données ?
 
-![alt text](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzhrOGYxeGVkdXNob3doYmtuenE3M2V6cG5nc3JidWk4Z2ZzcTZtZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xTiN0L7EW5trfOvEk0/giphy.webp)
+![alt text](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzhrOGYxeGVkdXNob3doYmtuenE3M2V6cG5nc3JidWk4Z2ZzcTZtZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xTiN0L7EW5trfOvEk0/giphy.webp) <!-- -->
 
 
 Conscients de ces enjeux, c’est d’abord un acteur privé, Brewster Khale,
@@ -155,7 +155,7 @@ secteur archivistique, des bibliothèques ou de la documentation n’y
 siège ? La loi est présentée par le gouvernement et par les médias comme
 liée à Internet, justifiant ainsi une exclusion de ces acteurs. 
 
-![alt text](images.jpg)
+![alt text](images.jpg) <!-- -->
 
 
 Le texte qui émerge de cette discussion entre le Comité et le Conseil des ministres
@@ -235,7 +235,7 @@ original et ses évolutions, ainsi qu’une visée d’exploitation et
 d’analyse par des spécialistes. On retrouve totalement cette vision avec
 la loi Dadvsi.
 
-![alt text](BNF.jpg)         <img src="Logo_INA.jpg" alt="alt text" width="250" height="250">  
+![alt text](BNF.jpg)         <img src="Logo_INA.jpg" alt="alt text" width="250" height="250">  <!-- -->
 
 Plus largement, comment dépasser les problèmes techniques définis par
 Howard Besser[^18] liés à la préservation du numérique, à savoir le
@@ -294,7 +294,7 @@ internationale depuis 2008. Il est véritablement nécessaire à
 l’interrogation des données. 
 
 > ### La patrimonialisation des archives à la BNF :
-> ![alt text](spar.jpg)
+> ![alt text](spar.jpg)<!-- -->
 >
 > Comme on peut le voir, le SPAR est support de conservation de l'ensemble de contenus numériques de la BNF qu'il s'agisse des collections nummérisées ou bien de l'administratif ou encore de l'archivage du WEB. 
 > Source : SPAR, [site Web de la BNF](https://www.bnf.fr/fr/spar-systeme-de-preservation-et-darchivage-reparti).
