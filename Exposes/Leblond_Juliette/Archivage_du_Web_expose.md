@@ -14,7 +14,7 @@
 
 
   
-# L'archivage du Web : naissance d'une problématique complexe. 
+# L'archivage du Web : naissance d'une problématique complexe. {#naissance-dune-problematique-complexe}
 
 Inventé par le chercheur Tim Berners-Lee en 1989, le Web s’est imposé comme un outil quotidien support de données variées auxquelles ont accès et/ou produisent des milliards d’utilisateurs à travers le monde. 
 Le Web n’a pas cessé d’évoluer ces vingt dernières années, son architecture a été transformée et son emploi démocratisé[^1].
