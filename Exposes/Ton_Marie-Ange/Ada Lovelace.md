@@ -120,7 +120,7 @@ Dans ses notes de bas de page, Ada écrit qu’on peut supposer qu’une machine
 
 Menabrea mentionne aussi __Jakob Bernoulli__ et les *__nombres de Bernoulli__*, qui consistent en une séquence de nombres rationnels – ce qui survient souvent lors d’analyses. Bernoulli affirme avoir réussi à calculer ses dix premiers nombres en quinze minutes avec la Machine Analytique. Mais pour prouver qu’il a tort, Ada crée ce qui ressemble aujourd’hui au premier programme informatique en démontrant que la Machine Analytique est en réalité capable de calculer cinquante nombres de Bernoulli en une minute. Ada est donc la première programmeuse informatique du monde.
 
-<img src="Note.png" align="center" width="900" height="490">
+<img src="Note.png" align="center" width="1200" height="840">
 <p align="center"> <b>Fig. 4 :</b> Diagramme de l'algorithme pour la Machine Analytique de la séquence des nombres de Bernoulli, Luigi Menabrea et Ada Lovelace, <i>Sketch of The Analytical Engine Invented by Charles Babbage</i>, 1842 </p>
 <br>
 
